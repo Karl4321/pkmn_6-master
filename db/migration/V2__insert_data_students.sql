@@ -29,7 +29,7 @@ INSERT INTO "public"."students" ("id", "family_name", "first_name", "sur_name", 
 ('7f075ac9-7c3b-40ea-920c-44dfafad9c07', 'Pchelintsev', 'Nikita', 'Igorevich', 'BSBO-05-23'),
 ('8ffd62d7-052e-4730-ae4d-53a79ad1d56b', 'Poluan', 'Polna', 'Mikhailona', 'BSBO-05-23'),
 ('9059f298-4812-4f53-89ff-ffe42e2c1163', 'Yakovlev', 'Maxim', 'Alekseevich', 'BSBO-04-23'),
-('90cd23ba-3b57-4393-8632-e170e3665935', 'Poluan', 'Polna', 'Mikhailona', 'BSBO-05-23'),``
+('90cd23ba-3b57-4393-8632-e170e3665935', 'Poluan', 'Polna', 'Mikhailona', 'BSBO-05-23'),
 ('9d509c6a-fefc-4d5d-a1df-9908f411b5a0', 'Углов', 'Алексей', 'Андреевич', 'БСБО-05-23'),
 ('9e2aa76c-01a0-4b75-8364-ec3b8c464c32', 'Pchelintsev', 'Nikita', 'Igorevich', 'BSBO-05-23'),
 ('9efa7851-a14f-442d-8e67-97a3bb669744', 'Углов', 'Алексей', 'Андреевич', 'БСБО-05-23'),
